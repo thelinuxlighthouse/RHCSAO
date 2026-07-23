@@ -15,6 +15,7 @@ The following chapters cover the core objectives required for the EX280 exam:
 
 ```text
 Exam_Preparation/
+├── Chapter00_OpenShift_and_Kubernetes_Fundamentals_Zero-to-Ready.md
 ├── Chapter01_Manage_OpenShift_Container_Platform.md
 ├── Chapter02_Work_With_Resource_Manifests.md
 ├── Chapter03_Deploy_Applications.md
@@ -30,6 +31,7 @@ Exam_Preparation/
 
 | Chapter | Topic Description |
 | :--- | :--- |
+| **Chapter 0** | OpenShift and Kubernetes Fundamentals: Zero-to-Ready
 | **Chapter 1** | Manage OpenShift Container Platform lifecycle, components, and installation options. |
 | **Chapter 2** | Work with resource manifests (YAML/JSON) for configuration management. |
 | **Chapter 3** | Deploy applications using ImageStreams, BuildConfigs, and Services. |
