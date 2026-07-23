@@ -2693,33 +2693,6 @@ You are ready for Chapter 01 when you can answer these without guessing.
 30. Current cluster, identity, project, exact target, ownership, and the impact
    of deletion.
 
-## 26. Chapter Completion Checklist
-
-Do not move to Chapter 01 until you can check each item honestly:
-
-- [ ] I can explain image, container, pod, node, and cluster in my own words.
-- [ ] I understand desired state, observed state, and reconciliation.
-- [ ] I can identify API server, etcd, scheduler, controller, kubelet, and
-  CRI-O roles.
-- [ ] I understand that OpenShift is Kubernetes plus integrated platform
-  capabilities.
-- [ ] I can read nested YAML mappings and lists.
-- [ ] I use spaces rather than tabs and can diagnose an indentation error.
-- [ ] I recognize `apiVersion`, `kind`, `metadata`, `spec`, and `status`.
-- [ ] I can use `oc explain` instead of guessing at a field.
-- [ ] I can compare labels with selectors.
-- [ ] I know when to begin with Deployment, StatefulSet, DaemonSet, Job, or
-  CronJob.
-- [ ] I can trace Route to Service to EndpointSlice to ready pods.
-- [ ] I understand ConfigMap, Secret, PVC, PV, and StorageClass roles.
-- [ ] I understand requests, limits, probes, and basic scheduling evidence.
-- [ ] I can separate authentication, RBAC, service accounts, SCC, and
-  NetworkPolicy.
-- [ ] I can perform client dry-run, server dry-run, diff, apply, wait, and
-  verification.
-- [ ] I begin troubleshooting with scope, events, status, and logs rather than
-  random changes.
-
 ## 27. Source and Scope Note
 
 This independently written foundation is aligned with the OpenShift Container
